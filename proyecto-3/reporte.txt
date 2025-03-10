@@ -1,0 +1,6 @@
+
+Reporte de Ventas 
+--------------------------------
+Ventas Totales: $2,900.00
+Producto Más Vendido: Mouse
+Promedio de Ventas: $966.67
